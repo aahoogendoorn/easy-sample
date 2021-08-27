@@ -37,7 +37,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "@thisisagile/easy-test": "^1.14.2",
+    "@thisisagile/easy-test": "^6.46.1",
     "dotenv": "^8.2.0",
     "prettier": "^2.2.1",
     "semantic-release": "^17.4.2",
